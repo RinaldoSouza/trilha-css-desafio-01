@@ -5,7 +5,7 @@ body {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 32px;
   color: #33A8DB;
   font-weight: bold;
   letter-spacing: 4px;
@@ -38,7 +38,7 @@ section {
 }
 
 .banner h1 {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-weight: 900;
   text-transform: uppercase;
   color: transparent;
@@ -48,7 +48,7 @@ section {
 }
 
 .banner p {
-  font-size: 1.25rem;
+  font-size: 20px;
   margin: 16px 0 24px;
 }
 
@@ -71,7 +71,7 @@ section {
 
 .banner .banner-content button {
   color: #31A8DD;
-  font-size: 1rem;
+  font-size: 16px;
   font-weight: bold;
   padding: 16px 32px;
   text-transform: uppercase;
@@ -118,7 +118,7 @@ section {
 
 #transform-world p {
   font-weight: 900;
-  font-size: 2.5rem;
+  font-size: 40px;
   text-transform: lowercase;
   max-width: 250px;
   text-shadow: 3px 2px #33A8DB;
